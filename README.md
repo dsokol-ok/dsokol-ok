@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Daria 👋
+Android Developer | Kotlin | Jetpack Compose (basic) | Learning Kotlin Multiplatform
 
-<!--
-**dsokol-ok/dsokol-ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Paphos, Cyprus  
+💻 4+ years experience in Android development (YooMoney, GROTEM)  
+🌱 Currently learning Kotlin Multiplatform and Compose Multiplatform  
+📫 Email: sdashas107@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/daria-sokolova-a20472239  
 
-Here are some ideas to get you started:
+## Skills
+- Kotlin, Android SDK, Jetpack components (ViewModel, LiveData, Navigation, WorkManager)  
+- MVVM, Clean Architecture, Dagger  
+- Retrofit, Room, Firebase Analytics & Crashlytics  
+- CI/CD: Jenkins, Gradle  
+- Testing: JUnit, Espresso  
+- Jetpack Compose (basic), Kotlin Multiplatform (learning)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects / Portfolio
+Check out my repositories below showcasing Android & KMP demos.
